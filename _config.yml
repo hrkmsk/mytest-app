@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
+your_name                                 : misa                                
 your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
+your_city                                 : tokyo                                
 email_address                             : emil.baehr@gmail.com
 facebook_username                         :                                           
 instagram_username                        : ebaehr
@@ -35,9 +35,9 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : 簡単に使える！
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : bicycle
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
